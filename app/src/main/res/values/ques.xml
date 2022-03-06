@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ques">
+        <item>What is Android?</item>
+        <item>What is Activity?</item>
+        <item>What is Padding in Android?</item>
+        <item>What is Margin in Android?</item>
+        <item>What is Implicit Intent?</item>
+        <item>What is Explicit Intent?</item>
+        <item>What is XML?</item>
+        <item>Which is updated Android Version?</item>
+        <item>In which IDE we should Design Android Applications?</item>
+
+
+    </string-array>
+
+    <string-array name="Answers">
+        <item>Android is an Operating System used in mobile devices.</item>
+        <item>Activity is the area or we can say a page in which we can perform any action.</item>
+        <item>The Concept of Padding is used in android to move the inside view of an attribute to center horizontal type things and etc.</item>
+        <item>The Concept of Margin is used in android to move the view from outside to center or etc.</item>
+        <item>Implicit Intent is used to move to another activity outside of our application.</item>
+        <item>Explicit Intent is used to move to another actiivity inside of our application.</item>
+        <item>XML is a mark up language used to design android application with JAVA and KOTLIN type High-Level Languages.</item>
+        <item>The updated version of android operating system is 12.0.</item>
+        <item>To design android applications we use ANDROID STUDIO which provides us best enivorment. </item>
+
+    </string-array>
+</resources>

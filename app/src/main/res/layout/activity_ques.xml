@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/m"
+    android:orientation="vertical"
+    tools:context=".Ques">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center"
+        android:text="Choose Any Option"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:background="@drawable/m"
+        android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center|left"
+        android:text="MCQ's"
+        android:textColor="@color/white"
+
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:background="@drawable/m"
+        android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center|left"
+        android:text="Q/A"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="127dp"
+        android:background="@drawable/m"
+        android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center|left"
+        android:text="TRUE/FALSE"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:background="@drawable/m"
+        android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center|left"
+        android:text="LEARN MORE"
+        android:textSize="40sp" />
+
+</LinearLayout>
